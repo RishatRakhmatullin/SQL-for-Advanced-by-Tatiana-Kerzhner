@@ -4,5 +4,5 @@
 
 Ниже приведена EER-Diagram для визуализации структуры базы данных:
 
-![EER-Diagram базы classicmodels](./database/classicmodels/EER-Diagram-DB-classicmodels.png)
+![EER-Diagram базы classicmodels](./EER-Diagram-DB-classicmodels.png)
 
