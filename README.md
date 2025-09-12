@@ -24,7 +24,7 @@ MySQL Workbench или любой другой клиент для работы 
 Используйте комментарии в скриптах для лучшего понимания логики.  
 
 **Вклад**  
-Будем рады вашим предложениям, исправлениям и новым примерам через **issue** или **pull request**.  
+Будем рады вашим предложениям, новым примерам и исправлениям через **[issue (обращение)](https://github.com/RishatRakhmatullin/SQL-for-Advanced-by-Tatiana-Kerzhner/blob/main/docs/create-issue.md)** или **pull request**.  
 
 **Об авторе**  
 Курс **SQL for Advanced** подготовлен автором **Tatiana Kerzhner** и преподавателем IT-школы RedRover.school.  
