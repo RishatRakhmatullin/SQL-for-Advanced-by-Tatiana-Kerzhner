@@ -1,8 +1,6 @@
 # База данных classicmodels
 
-В проекте представлена база данных **classicmodels**.
-
-Ниже приведена **EER-Diagram** для визуализации структуры базы данных:
+Ниже приведена **EER-Diagram** для визуализации структуры базы данных **classicmodels**:
 
 ![EER-Diagram базы classicmodels](./EER-Diagram-DB-classicmodels.png)
 
