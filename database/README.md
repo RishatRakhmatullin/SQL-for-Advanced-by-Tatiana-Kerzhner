@@ -13,6 +13,9 @@
 1. Перейдите в папку с нужной базой данных.
 2. Выполните SQL-скрипты в порядке, указанном в документации или в комментариях к скриптам.
 3. Используйте EER-Diagram для визуализации и понимания структуры базы данных.
+
+[**Как запустить SQL-скрипт по созданию базы данных в MySQL Workbench**](https://github.com/RishatRakhmatullin/SQL-for-Advanced-by-Tatiana-Kerzhner/blob/main/docs/run_sql_script_DB.md)
+
    
 ## Требования  
 - MySQL Server версии 8.0.43.
