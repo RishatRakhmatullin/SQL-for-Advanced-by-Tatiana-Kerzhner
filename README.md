@@ -19,11 +19,11 @@ MySQL Workbench или любой другой клиент для работы 
 **Как использовать**  
 Установите MySQL Server 8.0.43 и запустите его.  
 Откройте MySQL Workbench и подключитесь к серверу.  
-Перейдите в папку [**database**](./tree/main/database) и ознакомьтесь с описанием.  
+Перейдите в папку [**database**](https://github.com/RishatRakhmatullin/SQL-for-Advanced-by-Tatiana-Kerzhner/tree/main/database) и ознакомьтесь с описанием.  
 Выполните скрипты соответствующих database для создания базы данных и её структуры.  
 Изучайте и запускайте примеры запросов из репозитория.  
 Используйте комментарии в скриптах для лучшего понимания логики.  
-В папке [**docs**](./r/tree/main/docs) находится "Документация и инструкции".  
+В папке [**docs**](https://github.com/RishatRakhmatullin/SQL-for-Advanced-by-Tatiana-Kerzhner/tree/main/docs) находится "Документация и инструкции".  
 
 **Вклад**  
 Будем рады вашим предложениям, новым примерам и исправлениям через **[issue (обращение)](https://github.com/RishatRakhmatullin/SQL-for-Advanced-by-Tatiana-Kerzhner/blob/main/docs/create-issue.md)** или **pull request**.  
