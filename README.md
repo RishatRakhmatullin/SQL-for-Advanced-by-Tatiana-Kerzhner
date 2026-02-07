@@ -13,11 +13,11 @@ SQL-скрипты для создания базы данных и таблиц
 Комментарии к примерам для лучшего понимания.  
 
 **Требования**  
-MySQL Server версии 8.0.43  
-MySQL Workbench или любой другой клиент для работы с MySQL и ER-Diagram  
+MySQL Server версии 8.0.Х  
+MySQL Workbench 8.0.Х (рекомендуем) или любой другой клиент для работы с MySQL и ER-Diagram  
 
 **Как использовать**  
-Установите MySQL Server 8.0.43 и запустите его.  
+Установите MySQL Server 8.0.Х и запустите его.  
 Откройте MySQL Workbench и подключитесь к серверу.  
 Перейдите в папку [**database**](https://github.com/RishatRakhmatullin/SQL-for-Advanced-by-Tatiana-Kerzhner/tree/main/database) и ознакомьтесь с описанием.  
 Выполните скрипты соответствующих database для создания базы данных и её структуры.  
